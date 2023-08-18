@@ -35,4 +35,3 @@ export default function Form({ onAddClient }) {
     </div>
   )
 }
-Form.propTypes = {}
